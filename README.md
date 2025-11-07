@@ -251,3 +251,6 @@ The interface should allow users to create new notes, switch between notes by se
 Remember, the goal is to create a functional, polished Markdown editor with multiple files support, live preview, and local persistence. Keep the user experience simple and smooth, similar to known editors like *StackEdit* or *Dillinger* (e.g., edit on left, preview on right, files list on the side):contentReference[oaicite:17]{index=17}. **Double-check your solution** for accuracy and completeness before finalizing. Now, please generate the full Python code for this application.
 ```
 
+## Instructions
+
+You may find the the step-by-step guide on how to run the project at 
