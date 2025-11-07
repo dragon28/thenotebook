@@ -170,3 +170,7 @@ flet -r notebook-app.py
 - **Resource Management**: Minimal memory footprint
 
 This implementation provides a solid foundation for a modern, browser-based Markdown editor that meets all the specified requirements while maintaining clean architecture and excellent user experience.
+
+## Project Choice
+
+The "Notebook" - Multi-File Markdown Editor
