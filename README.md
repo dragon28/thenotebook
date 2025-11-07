@@ -257,4 +257,12 @@ Remember, the goal is to create a functional, polished Markdown editor with mult
 
 2) To reproduce result: please refer to https://www.perplexity.ai/search/you-are-a-highly-experienced-s-cRcI67c3RD2YCqfWmN8FRA#0 or https://github.com/dragon28/thenotebook/blob/main/thenotebook.pdf , for more information. 
 
+## Challenges & Iterations
 
+1) Understanding the prompt engineering and communication pattern of Large Language Model (LLM).
+
+2) Understand and choose the correct Large Language Model (LLM).
+
+3) Look for good agent provider with multiple features and "ready to run".
+
+4) Research, develop and test different engineered prompt. 
