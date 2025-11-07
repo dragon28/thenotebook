@@ -102,13 +102,13 @@ pip install flet
 ### Run the application
 ```bash
 # Run the application
-python notebook-app.py
+python main.py
 ```
 
 ### Development Mode
 ```bash
 # Hot reload for development
-flet -r notebook-app.py
+flet -r main.py
 ```
 
 ## Usage Guide
