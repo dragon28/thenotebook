@@ -255,6 +255,6 @@ Remember, the goal is to create a functional, polished Markdown editor with mult
 
 1) The step-by-step guide on how to run the project: https://github.com/dragon28/thenotebook?tab=readme-ov-file#installation-and-setup
 
-2) To reproduce result: https://www.perplexity.ai/search/you-are-a-highly-experienced-s-cRcI67c3RD2YCqfWmN8FRA#0 or  
+2) To reproduce result: please refer to https://www.perplexity.ai/search/you-are-a-highly-experienced-s-cRcI67c3RD2YCqfWmN8FRA#0 or https://github.com/dragon28/thenotebook/blob/main/thenotebook.pdf , for more information. 
 
 
