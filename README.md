@@ -199,7 +199,7 @@ The "Notebook" - Multi-File Markdown Editor
 
 - **OpenAI GPT-5**: Because it was one of the best model trained with the lastest information. 
 - **Perplexity Pro**: Allow prompt engineer to use **deep research** agent with unlimited access. Plus, it allowed the agent to access features which are **web search** (MCP), **social** (MCP) and **GitHub** (MCP) to gather more information and make better decesion. The model selected was **Best** based on the prompt.
-- **Python Verson 3.12**: Python was one of the programming language which can be consider easy to be master by both human and artifical intelliegent (AI). The reason for choosing version 3.12 because it was one of the most stable version that supported by different python's libraries, packages and frameworks.
+- **Python Version 3.12**: Python was one of the programming language which can be consider easy to be master by both human and artifical intelliegent (AI). The reason for choosing version 3.12 because it was one of the most stable version that supported by different python's libraries, packages and frameworks.
 - **Flet**: Based on the requirements or specification of the project, the best framework to solve most of the requirements or specification of the project was **Flutter**. As a result, prompt engineer chosen **Flet** which was derive from **Flutter**. For more information, please refer to https://flet.dev/ .
 
 ## High-Level Approach
@@ -261,7 +261,7 @@ Remember, the goal is to create a functional, polished Markdown editor with mult
 
 1) Understanding the prompt engineering and communication pattern of Large Language Model (LLM).
 
-2) Understand and choose the correct Large Language Model (LLM).
+2) Understand and choose the best or suitable Large Language Model (LLM).
 
 3) Look for good agent provider with multiple features and "ready to run".
 
